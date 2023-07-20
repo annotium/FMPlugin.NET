@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<license id="258473ba-dbce-4f2b-bf6c-4dc735d0da60" expiration="2015-05-18T13:10:51.8519999" type="Trial" Company="Unknown" StartDate="5/18/2014 1:10:51 PM" ValidMonths="12">
+  <name>Unregister</name>
+  <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+    <SignedInfo>
+      <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+      <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+      <Reference URI="">
+        <Transforms>
+          <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+        </Transforms>
+        <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <DigestValue>wBBN5OguwRAkjezeIOA7iJfhunk=</DigestValue>
+      </Reference>
+    </SignedInfo>
+    <SignatureValue>kjmYgDmpzFwyiW8VDHDgatbwlJa0eWwTdYsN92OVYiJERLUhVBTbCsSO/DCwDocCqHce27tygBeEAjnuHhGY0q2ofXFIz5qC+/YI530Puc1E23VXyDjZvp3lyWqkurrPyWNLJTHumN+JOPByc/0x3NslEWU4nftXjjd1/xIXMP0=</SignatureValue>
+  </Signature>
+</license>
